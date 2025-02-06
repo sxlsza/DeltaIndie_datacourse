@@ -1,0 +1,100 @@
+Purchase_ID;Purchase_Date;Supplier_Name;Supplier_Type;Warehouse_Name;Item_Name;Item_Type;Item_Price;Item_Qty;Item_Total
+1;01/01/2024 21.13;Kelompok Tani Merdeka ;Kelompok Tani;Gudang Ngawi;Alpukat/Avocado ;Buah-Buahan;15000;100;1500000
+2;02/01/2024 21.13;Kelompok Tani Merah;Kelompok Tani;Gudang Lamongan;Anggur/Grape ;Buah-Buahan;14000;100;1400000
+3;03/01/2024 21.13;Kelompok Tani Putih;Kelompok Tani;Gudang Bojonegoro;Apel/Apple ;Buah-Buahan;13000;100;1300000
+4;04/01/2024 21.13;Kelompok Tani Wayang;Kelompok Tani;Gudang Ngawi;Belimbing/Star Fruit ;Buah-Buahan;12000;100;1200000
+5;05/01/2024 21.13;Danu;Individu;Gudang Lamongan;Duku/Langsat/Kokosan/Duku ;Buah-Buahan;11000;100;1100000
+6;06/01/2024 21.13;Dani;Individu;Gudang Bojonegoro;Durian/Durian ;Buah-Buahan;10000;100;1000000
+7;07/01/2024 21.13;Darto;Individu;Gudang Ngawi;Jambu Air/Water Apple ;Buah-Buahan;9000;100;900000
+8;08/01/2024 21.13;Dafa;Individu;Gudang Jember;Jambu Biji/Guava ;Buah-Buahan;8000;100;800000
+9;08/01/2024 21.13;Dori;Individu;Gudang Jember;Jengkol/Jengkol ;Sayuran;7000;100;700000
+10;10/01/2024 21.13;Dora;Individu;Gudang Jember;Jeruk Besar/Pomelo ;Buah-Buahan;6000;100;600000
+11;11/01/2024 21.13;Kelompok Tani Merdeka ;Kelompok Tani;Gudang Jember;Jeruk Siam/Keprok/Orange/Tangerine ;Buah-Buahan;5000;100;500000
+12;12/01/2024 21.13;Kelompok Tani Merah;Kelompok Tani;Gudang Bojonegoro;Mangga/Mango ;Buah-Buahan;4000;100;400000
+13;13/01/2024 21.13;Kelompok Tani Putih;Kelompok Tani;Gudang Ngawi;Manggis/Mangosteen ;Buah-Buahan;3000;100;300000
+14;14/01/2024 21.13;Kelompok Tani Wayang;Kelompok Tani;Gudang Lamongan;Melinjo/Gnetum/Melinjo ;Buah-Buahan;2000;100;200000
+15;15/01/2024 21.13;Kelompok Tani Golek;Kelompok Tani;Gudang Lamongan;Nangka/Cempedak/Jackfruit ;Sayuran;1000;100;100000
+16;16/02/2024 21.13;Danu;Individu;Gudang Lamongan;Nenas/Pineapple ;Buah-Buahan;15000;100;1500000
+17;17/02/2024 21.13;Dani;Individu;Gudang Lamongan;Pepaya/Papaya ;Buah-Buahan;14000;100;1400000
+18;18/02/2024 21.13;Darto;Individu;Gudang Bojonegoro;Petai/Twisted Cluster Bean ;Sayuran;13000;100;1300000
+19;19/02/2024 21.13;Dafa;Individu;Gudang Jember;Pisang/Banana ;Buah-Buahan;12000;100;1200000
+20;20/02/2024 21.13;Dori;Individu;Gudang Jember;Rambutan/Rambutan ;Buah-Buahan;11000;100;1100000
+21;21/02/2024 21.13;Dora;Individu;Gudang Banyuwangi;Salak/Snakefruit ;Buah-Buahan;10000;100;1000000
+22;22/02/2024 21.13;Kelompok Tani Merdeka ;Kelompok Tani;Gudang Tuban ;Sawo/Sapodilla/Sawo ;Buah-Buahan;9000;100;900000
+23;23/02/2024 21.13;Kelompok Tani Merah;Kelompok Tani;Gudang Madiun ;Sirsak/Soursop ;Buah-Buahan;8000;100;800000
+24;24/02/2024 21.13;Kelompok Tani Putih;Kelompok Tani;Gudang Nganjuk ;Sukun/Breadfruit ;Buah-Buahan;7000;100;700000
+25;25/02/2024 21.13;Danu;Individu;Gudang Banyuwangi;Buah Naga/Hylocereus polyrhizus ;Buah-Buahan;6000;100;600000
+26;26/02/2024 21.13;Dani;Individu;Gudang Tuban ;Jeruk Lemon/Lemon ;Buah-Buahan;5000;100;500000
+27;27/02/2024 21.13;Darto;Individu;Gudang Madiun ;Lengkeng/Dimocarpus longan ;Buah-Buahan;4000;100;400000
+28;28/02/2024 21.13;Kelompok Tani Laskar;Kelompok Tani;Gudang Nganjuk ;Alpukat/Avocado ;Buah-Buahan;3000;100;300000
+29;29/02/2024 21.13;Kelompok Tani Wangi;Kelompok Tani;Gudang Lamongan;Anggur/Grape ;Buah-Buahan;2000;100;200000
+30;01/03/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Bojonegoro;Apel/Apple ;Buah-Buahan;1000;100;100000
+31;02/03/2024 21.13;Kelompok Tani Citra;Kelompok Tani;Gudang Jember;Belimbing/Star Fruit ;Buah-Buahan;15000;100;1500000
+32;03/03/2024 21.13;Kelompok Tani Sentosa;Kelompok Tani;Gudang Jember;Duku/Langsat/Kokosan/Duku ;Buah-Buahan;14000;100;1400000
+33;04/03/2024 21.13;Danu;Individu;Gudang Bojonegoro;Durian/Durian ;Buah-Buahan;13000;100;1300000
+34;05/03/2024 21.13;Dani;Individu;Gudang Ngawi;Jambu Air/Water Apple ;Buah-Buahan;12000;100;1200000
+35;06/03/2024 21.13;Darto;Individu;Gudang Ngawi;Jambu Biji/Guava ;Buah-Buahan;11000;100;1100000
+36;07/03/2024 21.13;Dafa;Individu;Gudang Lamongan;Jengkol/Jengkol ;Sayuran;10000;100;1000000
+37;08/03/2024 21.13;Dori;Individu;Gudang Bojonegoro;Jeruk Besar/Pomelo ;Buah-Buahan;9000;100;900000
+38;09/03/2024 21.13;Dora;Individu;Gudang Ngawi;Jeruk Siam/Keprok/Orange/Tangerine ;Buah-Buahan;8000;100;800000
+39;10/03/2024 21.13;Kelompok Tani Merdeka ;Kelompok Tani;Gudang Lamongan;Mangga/Mango ;Buah-Buahan;7000;100;700000
+40;11/03/2024 21.13;Kelompok Tani Merah;Kelompok Tani;Gudang Bojonegoro;Manggis/Mangosteen ;Buah-Buahan;6000;100;600000
+41;12/03/2024 21.13;Kelompok Tani Putih;Kelompok Tani;Gudang Ngawi;Melinjo/Gnetum/Melinjo ;Buah-Buahan;5000;100;500000
+42;13/03/2024 21.13;Kelompok Tani Wayang;Kelompok Tani;Gudang Jember;Nangka/Cempedak/Jackfruit ;Sayuran;4000;100;400000
+43;14/03/2024 21.13;Kelompok Tani Golek;Kelompok Tani;Gudang Jember;Nenas/Pineapple ;Buah-Buahan;3000;100;300000
+44;14/03/2024 21.13;Angel;Individu;Gudang Jember;Pepaya/Papaya ;Buah-Buahan;2000;100;200000
+45;14/04/2024 21.13;Anggi;Individu;Gudang Jember;Petai/Twisted Cluster Bean ;Sayuran;1000;100;100000
+46;14/04/2024 21.13;Anggun;Individu;Gudang Bojonegoro;Pisang/Banana ;Buah-Buahan;15000;100;1500000
+47;18/04/2024 21.13;Angge;Individu;Gudang Ngawi;Rambutan/Rambutan ;Buah-Buahan;14000;100;1400000
+48;19/04/2024 21.13;Anggo;Individu;Gudang Lamongan;Salak/Snakefruit ;Buah-Buahan;13000;100;1300000
+49;20/04/2024 21.13;Anggsu;Individu;Gudang Lamongan;Sawo/Sapodilla/Sawo ;Buah-Buahan;12000;100;1200000
+50;21/04/2024 21.13;Kelompok Tani Laskar;Kelompok Tani;Gudang Lamongan;Sirsak/Soursop ;Buah-Buahan;11000;100;1100000
+51;22/04/2024 21.13;Kelompok Tani Wangi;Kelompok Tani;Gudang Lamongan;Sukun/Breadfruit ;Buah-Buahan;10000;100;1000000
+52;23/04/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Bojonegoro;Buah Naga/Hylocereus polyrhizus ;Buah-Buahan;9000;100;900000
+53;24/04/2024 21.13;Darto;Individu;Gudang Jember;Jeruk Lemon/Lemon ;Buah-Buahan;8000;100;800000
+54;25/04/2024 21.13;Dafa;Individu;Gudang Jember;Lengkeng/Dimocarpus longan ;Buah-Buahan;7000;100;700000
+55;26/04/2024 21.13;Dori;Individu;Gudang Banyuwangi;Alpukat/Avocado ;Buah-Buahan;6000;100;600000
+56;27/04/2024 21.13;Darto;Individu;Gudang Tuban ;Anggur/Grape ;Buah-Buahan;5000;100;500000
+57;28/04/2024 21.13;Dafa;Individu;Gudang Madiun ;Apel/Apple ;Buah-Buahan;4000;100;400000
+58;29/04/2024 21.13;Dori;Individu;Gudang Nganjuk ;Belimbing/Star Fruit ;Buah-Buahan;3000;100;300000
+59;30/04/2024 21.13;Angel;Individu;Gudang Banyuwangi;Duku/Langsat/Kokosan/Duku ;Buah-Buahan;2000;100;200000
+60;01/05/2024 21.13;Anggi;Individu;Gudang Tuban ;Durian/Durian ;Buah-Buahan;1000;100;100000
+61;01/05/2024 21.13;Anggun;Individu;Gudang Madiun ;Jambu Air/Water Apple ;Buah-Buahan;15000;100;1500000
+62;01/05/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Nganjuk ;Jambu Biji/Guava ;Buah-Buahan;14000;100;1400000
+63;01/05/2024 21.13;Kelompok Tani Citra;Kelompok Tani;Gudang Lamongan;Jengkol/Jengkol ;Sayuran;13000;100;1300000
+64;01/05/2024 21.13;Kelompok Tani Sentosa;Kelompok Tani;Gudang Bojonegoro;Jeruk Besar/Pomelo ;Buah-Buahan;12000;100;1200000
+65;06/05/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Jember;Jeruk Siam/Keprok/Orange/Tangerine ;Buah-Buahan;11000;100;1100000
+66;07/05/2024 21.13;Kelompok Tani Citra;Kelompok Tani;Gudang Jember;Mangga/Mango ;Buah-Buahan;10000;100;1000000
+67;08/05/2024 21.13;Kelompok Tani Sentosa;Kelompok Tani;Gudang Bojonegoro;Manggis/Mangosteen ;Buah-Buahan;9000;100;900000
+68;09/05/2024 21.13;Kelompok Tani Terbaik;Kelompok Tani;Gudang Ngawi;Melinjo/Gnetum/Melinjo ;Buah-Buahan;8000;100;800000
+69;10/05/2024 21.13;Kelompok Tani Tertinggi;Kelompok Tani;Gudang Ponorogo ;Nangka/Cempedak/Jackfruit ;Sayuran;7000;100;700000
+70;11/05/2024 21.13;Kelompok Tani Tertanam;Kelompok Tani;Gudang Gresik ;Nenas/Pineapple ;Buah-Buahan;6000;100;600000
+71;12/05/2024 21.13;Kelompok Tani Termanis;Kelompok Tani;Gudang Lamongan;Pepaya/Papaya ;Buah-Buahan;5000;100;500000
+72;13/05/2024 21.13;Kelompok Tani Laskar;Kelompok Tani;Gudang Bojonegoro;Petai/Twisted Cluster Bean ;Sayuran;4000;100;400000
+73;14/05/2024 21.13;Kelompok Tani Wangi;Kelompok Tani;Gudang Jember;Pisang/Banana ;Buah-Buahan;3000;100;300000
+74;15/05/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Jember;Rambutan/Rambutan ;Buah-Buahan;2000;100;200000
+75;15/05/2024 21.13;Kelompok Tani Laskar;Kelompok Tani;Gudang Banyuwangi;Salak/Snakefruit ;Buah-Buahan;1000;100;100000
+76;15/05/2024 21.13;Kelompok Tani Wangi;Kelompok Tani;Gudang Tuban ;Sawo/Sapodilla/Sawo ;Buah-Buahan;15000;100;1500000
+77;18/05/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Madiun ;Sirsak/Soursop ;Buah-Buahan;14000;100;1400000
+78;19/05/2024 21.13;Kelompok Tani Citra;Kelompok Tani;Gudang Nganjuk ;Sukun/Breadfruit ;Buah-Buahan;13000;100;1300000
+79;20/05/2024 21.13;Kelompok Tani Sentosa;Kelompok Tani;Gudang Banyuwangi;Buah Naga/Hylocereus polyrhizus ;Buah-Buahan;12000;100;1200000
+80;21/05/2024 21.13;Darto;Individu;Gudang Tuban ;Jeruk Lemon/Lemon ;Buah-Buahan;11000;100;1100000
+81;21/05/2024 21.13;Dafa;Individu;Gudang Madiun ;Lengkeng/Dimocarpus longan ;Buah-Buahan;10000;100;1000000
+82;21/05/2024 21.13;Dori;Individu;Gudang Nganjuk ;Jengkol/Jengkol ;Sayuran;9000;100;900000
+83;21/05/2024 21.13;Darto;Individu;Gudang Lamongan;Petai/Twisted Cluster Bean ;Sayuran;8000;100;800000
+84;25/05/2024 21.13;Dafa;Individu;Gudang Bojonegoro;Nangka/Cempedak/Jackfruit ;Sayuran;7000;100;700000
+85;26/05/2024 21.13;Dori;Individu;Gudang Jember;Jengkol/Jengkol ;Sayuran;6000;100;600000
+86;27/05/2024 21.13;Angel;Individu;Gudang Jember;Petai/Twisted Cluster Bean ;Sayuran;5000;100;500000
+87;28/05/2024 21.13;Anggi;Individu;Gudang Bojonegoro;Nangka/Cempedak/Jackfruit ;Sayuran;4000;100;400000
+88;29/05/2024 21.13;Anggun;Individu;Gudang Ngawi;Jengkol/Jengkol ;Sayuran;3000;100;300000
+89;30/05/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Ponorogo ;Petai/Twisted Cluster Bean ;Sayuran;2000;100;200000
+90;31/05/2024 21.13;Kelompok Tani Citra;Kelompok Tani;Gudang Gresik ;Nangka/Cempedak/Jackfruit ;Sayuran;1000;100;100000
+91;01/06/2024 21.13;Kelompok Tani Sentosa;Kelompok Tani;Gudang Nganjuk ;Jengkol/Jengkol ;Sayuran;15000;100;1500000
+92;02/06/2024 21.13;Kelompok Tani Indah;Kelompok Tani;Gudang Lamongan;Petai/Twisted Cluster Bean ;Sayuran;14000;100;1400000
+93;03/06/2024 21.13;Kelompok Tani Citra;Kelompok Tani;Gudang Bojonegoro;Pisang/Banana ;Buah-Buahan;13000;100;1300000
+94;04/06/2024 21.13;Angel;Individu;Gudang Jember;Rambutan/Rambutan ;Buah-Buahan;12000;100;1200000
+95;05/06/2024 21.13;Anggi;Individu;Gudang Jember;Salak/Snakefruit ;Buah-Buahan;11000;100;1100000
+96;06/06/2024 21.13;Anggun;Individu;Gudang Bojonegoro;Sawo/Sapodilla/Sawo ;Buah-Buahan;10000;100;1000000
+97;07/06/2024 21.13;Angge;Individu;Gudang Ngawi;Pisang/Banana ;Buah-Buahan;9000;100;900000
+98;08/06/2024 21.13;Anggo;Individu;Gudang Ponorogo ;Rambutan/Rambutan ;Buah-Buahan;8000;100;800000
+99;09/06/2024 21.13;Anggsu;Individu;Gudang Gresik ;Salak/Snakefruit ;Buah-Buahan;15000;100;1500000
