@@ -1,9 +1,6 @@
-numpy 
-streamlit
+numpy
 pandas
 scikit-learn
 matplotlib
-pip == 25.0.1
+streamlit
 joblib
-pickle
-python
